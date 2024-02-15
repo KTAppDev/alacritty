@@ -43,8 +43,9 @@ style = "Regular"
 
 [window]
 opacity = 1.0
-padding = { x = 4, y = 5 }
+padding = { x = 6, y = 6 }
 decorations = "Buttonless"
+option_as_alt = "OnlyLeft"
 
 [window.dimensions]
 columns = 160
